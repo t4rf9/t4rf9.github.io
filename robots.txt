@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://t4rf9.github.io/sitemap.xml
